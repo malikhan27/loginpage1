@@ -1,16 +1,15 @@
 @media screen and (max-width: 2160px)
-     {.div{text-align: center; margin: auto; color: aliceblue; width: auto;}
+     {.div{text-align: center; margin: auto; color: rgb(247, 251, 255); width: auto;}
          body{background-image: url(assets/gradient-abstract-with-diagonal-lines-background_23-2150527316.jpg);
             width: auto; height: auto;
        background-size: cover;
-      background-attachment: fixed; }
+      background-attachment: fixed;}
          .input1{box-sizing: border-box; padding: 8px; width: 250px; margin: 10px 0px 10px 0px; border-radius: 8px; border-color: rgb(0, 225, 255); border-style:solid;}
-         .class1{font-family:Arial, Helvetica, sans-serif; text-transform: uppercase; font-size:40px;}
-         .class2{font-family: Arial, Helvetica, sans-serif; font-size: 20px ; font-weight: bold; letter-spacing:2px;}
-         .btn:hover{ width:100px; color: antiquewhite; 
-            background-color: rgb(72, 159, 241 
-            );font-size: 18px; font-weight: 900 ; padding: 4px; margin-top: 6px; border-radius: 8px; }
-            .btn{ width: 100px; background-color: antiquewhite; color: black; transition-duration: 0.2s; font-size: 18px; font-weight: 900 ; padding: 4px; margin-top: 6px; border-radius: 8px;}
-            .link{text-decoration: underline; color: white; margin: 6px; font-weight: bold;}
-            .link2{text-decoration: underline; color: white ;font-weight: bold;}} 
+         .class1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-transform: capitalize; font-size:40px;}
+         .class2{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 20px ; font-weight: bold; letter-spacing:1px; text-transform: capitalize;}
+         .btn:hover{ width:170px; color: antiquewhite; 
+            background-color: rgb(11, 54, 94);font-size: 18px; font-weight: 900 ; padding: 4px; margin-top: 6px; border-radius: 8px; }
+            .btn{ width: 170px; background-color: rgb(240, 240, 247); color: black; transition-duration: 0.2s; font-size: 18px; font-weight: 900 ; padding: 4px; margin-top: 6px; border-radius: 8px;}
+            .link{text-decoration: underline; color: rgb(240, 240, 250); margin: 6px 8px 6px 0px; font-weight: bold;}
+            .link2{text-decoration: underline; color:rgb(238, 238, 255);font-weight: bold;}} 
       
