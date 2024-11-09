@@ -10,7 +10,7 @@ function redirecttoPage()
         window.location.href="dashboard.html"
     }
     else{
-        alert("enter a valid password")
+        alert("Incorrect Password or username")
     }
 
 }
